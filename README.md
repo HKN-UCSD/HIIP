@@ -1,2 +1,2 @@
-# HIIT
-HIIT - HKN Inductee Invitation Process
+# HIIP
+HIIP - HKN Inductee Invitation Process
